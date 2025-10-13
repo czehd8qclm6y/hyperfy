@@ -103,3 +103,5 @@ const { blueprint, assets } = await importApp(hypFile)
 ```
 
 The format uses little-endian encoding for the header size value.
+
+<!-- Auto-update: 2025-10-14T04:02:14.032688 -->
