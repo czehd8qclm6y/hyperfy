@@ -19,3 +19,5 @@ Whether this mesh should receive a shadow. Defaults to `true`.
 
 Inherits all [Node](/docs/scripting/nodes/Node.md) properties
 
+
+<!-- Auto-update: 2025-10-14T13:35:55.057560 -->
